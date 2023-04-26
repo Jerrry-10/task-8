@@ -1,19 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+Task 8
 
-First, run the development server:
+You cannot hand this in late.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Start with https://github.com/matgargano/link-barge/archive/refs/tags/pre-task-8.zip
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Based on the designs
 
-## Important Links
+Complete the build out
 
-[Figma](https://www.figma.com/file/vZHOFnRPBNdAVTrnWaXywL/Untitled?node-id=2%3A63&t=ubjjIiyUbVTQgd9f-1)
+    <SocialLinks> pull in data from the getSocialLinks function in data.js.
+    <NonSocialLinks> pull in data from getLinksLinks function in data.js. I added a class in tailwind button that styles the buttons
+    <TopContent> pull in data from getCurrentUser function in data.js.
+
